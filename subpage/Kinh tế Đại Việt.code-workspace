@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Kinh tế Đại Việt"
+		},
+		{
+			"path": "../Downloads/Khôi Nguyên (1)"
+		},
+		{
+			"path": "JSA06-Test 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Kinh tế Đại Việt",
+		"liveServer.settings.port": 5501
+	}
+}
